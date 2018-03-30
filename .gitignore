@@ -1,0 +1,9 @@
+# python boogers
+*.py[cod]
+*.egg
+*.egg-info
+dist
+build
+
+# local env config
+.envrc
