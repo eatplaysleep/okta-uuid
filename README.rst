@@ -2,7 +2,7 @@
 ===========
 
 This is a simple module for turning Okta's user IDs (which *appear* to be
-base62-encoded integers) into UUIDs, and vice version. This is useful for
+base62-encoded integers) into UUIDs, and vice versa. This is useful for
 integrating Okta with systems or services where you don't necessarily want to
 use string identifiers.
 
@@ -22,7 +22,7 @@ Developing
 * Install the requirements: ``python setup.py develop``.
 * Hack away!
 
-There's a (small!) test suite included. You can run it with ``python3 test.py``.
+There's a (small!) test suite included. You can run it with ``python test.py``.
 
 
 Using
